@@ -1,0 +1,6 @@
+__pycache__/
+outputs/
+rahnuma_pdfs/
+lv-test/
+*.pdf
+.env
